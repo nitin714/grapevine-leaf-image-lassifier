@@ -1,7 +1,5 @@
 # grapevine-leaf-image-lassifier
 
-# grapevine-leaf-image-lassifier
-
 ## Workflows
 
 1. Update config.yaml
